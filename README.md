@@ -18,7 +18,7 @@ Interface Builder validator.
 ```
 
 - [x] xib, storyboard support
-- [-] image specified outside code validater
+- [ ] image specified outside code validater
   - [x] imageView
   - [ ] button
 - [ ] inaba.yml 
